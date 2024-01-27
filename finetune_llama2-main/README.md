@@ -9,10 +9,9 @@ A heavy computational task like fine-tuning requires a lot of computational memo
 
 QLora (Quantized Lora), is an extension to Lora with the additional introduction of using a normalized floating bit of 4-bits (NF-4) and double quantization to further reduce the memory footprint of training and inference. QLoRA is a versatile technique applicable to different language models, including RoBERTa, DeBERTa, GPT-2, GPT-3, GPT-4, etc.
 
-![image](https://github.com/mr-nobody15/finetune_llama2/assets/70313481/30c88411-56df-4b10-a97e-e9d1a5f7fd2c)
+![image](https://github.com/mr-nobody15/codebot_llama/assets/70313481/63a0a13c-f141-46f3-9a1a-01ef429a3d79)
+
 
 # Hugging Face repo for QLora Adaptors configuration, tokenizers, and other files link
 
-https://huggingface.co/Akil15/llama-2-7b_qlora_v_0.2
-
-You can refer to testchat.ipynb code file for further code using QLora adaptors.
+https://huggingface.co/Akil15/finetune_llama_v_0.1
